@@ -1,0 +1,9 @@
+{
+	"name": "dp-ccaas-adf-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af07ce24-944c-4bc0-bec0-b939ede253a6",
+		"tenantId": "8e1a22af-d0d8-4821-a011-bcfc389f5b57"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "sa_destination_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Linked service to key vault for sa_destination_ls",
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://karimsink.blob.core.windows.net",
+			"accountKind": "StorageV2"
+		}
+	}
+}
